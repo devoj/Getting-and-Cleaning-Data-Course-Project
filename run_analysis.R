@@ -86,5 +86,5 @@ Tidy_data <- as.data.frame(summarise_each(group_by(
 
 #Finally, write out the tidy data set for submission
 write.table(Tidy_data, file = "./Tidy_data.txt", row.names = FALSE)
-sion
+
 

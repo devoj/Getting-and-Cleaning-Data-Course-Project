@@ -2,7 +2,7 @@
 title: "Codebook.md"
 output: html_document
 ---
-A tidy data set of the mean of mean and standard deviation measurements from accelerometers on a Samsung Galaxy SII
+Data ouput: A tidy data set of the mean of mean and standard deviation measurements from accelerometers on a Samsung Galaxy SII
 
 Raw data is: 
 
